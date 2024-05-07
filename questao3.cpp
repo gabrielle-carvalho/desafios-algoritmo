@@ -12,6 +12,5 @@ int main()
         resultado = resultado * i;
         i++;
     }
-    printf("\nValor da fatorial de %d: %d", valor, resultado);
-    return 0;
+    printf("\nValor do fatorial do número %d: %d", valor, resultado);
 }
