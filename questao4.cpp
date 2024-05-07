@@ -8,7 +8,7 @@ int main()
 	soma=0;
 
 
-	printf("Informe 1 numero: ");
+	printf("Informe 1 número: ");
 	scanf("%d", &n);
 	cont=n;
 
@@ -19,5 +19,5 @@ int main()
 		soma = soma+n;
 	}
 
-	printf("Soma = %d", soma);
+	printf("Soma dos números anteriores ao digitado: %d", soma);
 }
