@@ -3,15 +3,17 @@
 
 int main()
 {
-    int proximo, anterior, atual;
+    int proximo, anterior, atual, num;
 
     anterior = 0;
     atual = 0;
+    num = 0;
 
     printf("Quantos números você gostaria da sequencia de fibonacci? \n");
+    scanf("%d", &num);
     printf("Sequencia de fibonacci \n");
 
-    for(int cont = 0; cont <= 15; ){
+    for(int cont = 0; cont < num; ){
 
         if (cont == 1)
             atual = 1;
@@ -20,7 +22,6 @@ int main()
         anterior = atual;
         atual = proximo;
         cont++;
-
     }
 
     return 0;
