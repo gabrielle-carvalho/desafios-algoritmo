@@ -4,7 +4,6 @@ main()
 {
 	float a,b,c,pesoA, pesoB, pesoC, media;
 
-
 	printf("Informe o valor a \n");
 	scanf("%f",&a);
 	
