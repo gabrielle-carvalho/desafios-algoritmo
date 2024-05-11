@@ -1,4 +1,4 @@
-//9 – Escrever um algoritmo para um programa que leia um conjunto de 50 fichas contendo cada uma, o nome, altura e o sexo de uma pessoa. Calcule e imprima :
+//QUESTÃO 9 – Escrever um algoritmo para um programa que leia um conjunto de 50 fichas contendo cada uma, o nome, altura e o sexo de uma pessoa. Calcule e imprima :
 //a) A maior e a menor altura da turma b) A média de altura das mulheres c) A média de altura da turma
 #include<stdio.h>
 
