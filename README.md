@@ -22,8 +22,9 @@ Ex. valor = 3, deve ser calculado 0+1+2 = 3 Valor = 5, deve ser calculado 0+1+2+
 <h2>5 - Dado um número natural na base binária, transformá-lo para a base decimal.</h2>
 Exemplo:
 Dado 10010 a saída será 18, pois 1. 2 4 + 0. 2 3 + 0. 2 2 + 1. 2 1 + 0. 2 0 = 18.
-6 - Dado um número natural na base decimal, transformá-lo para a base binária.
-Exemplo: Dado 18 a saída deverá ser 10010.
+
+<h2> 6 - Dado um número natural na base decimal, transformá-lo para a base binária.
+Exemplo: Dado 18 a saída deverá ser 10010.</h2>
 
 
 <h2> 7 - Dizemos que um inteiro positivo n é perfeito se for igual à soma de seus divisores positivos diferentes de n. </h2>
