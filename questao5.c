@@ -1,3 +1,5 @@
+//QUESTÃO 5 - Dado um número natural na base binária, transformá-lo para a base decimal.
+//Exemplo: Dado 10010 a saída será 18, pois 1. 2 4 + 0. 2 3 + 0. 2 2 + 1. 2 1 + 0. 2 0 = 18. 6 - Dado um número natural na base decimal, transformá-lo para a base binária. Exemplo: Dado 18 a saída deverá ser 10010.
 #include <stdio.h>
 #include <math.h>
 
