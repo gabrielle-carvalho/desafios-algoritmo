@@ -1,4 +1,4 @@
-//14 - A série de Fibonacci tem como dados os dois primeiros termos da série que são respectivamente 0 e 1. A partir deles os demais termos são construídos pela seguinte regra: cada número seguinte é a soma dos dois anteriores
+//QUESTÃO 14 - A série de Fibonacci tem como dados os dois primeiros termos da série que são respectivamente 0 e 1. A partir deles os demais termos são construídos pela seguinte regra: cada número seguinte é a soma dos dois anteriores
 //A partir da leitura de n termos, mostre os termos da sequência.
 #include <stdio.h>
 
