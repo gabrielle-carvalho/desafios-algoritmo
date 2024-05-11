@@ -1,3 +1,5 @@
+// QUESTÃO 1 - Escrever um algoritmo que leia 3 valores a,b,c. Calcule e escreve a média ponderada com pesos = 5 para números acima de 6 e peso = 2,5 para números abaixo de 6.
+
 #include <stdio.h>
 
 main()
