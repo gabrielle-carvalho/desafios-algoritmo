@@ -1,3 +1,5 @@
+//QUESTÃO 12 - Supondo que a população de um país “A” seja da ordem de 90.000.000 de habitantes, com taxa anual de crescimento de 3%, e que a população de um país “B” seja, aproximadamente 200.000.000 de habitantes com taxa anual de crescimento de 1,5%.
+//Faça um algoritmo que calcule e escreva o número de anos necessários para que a população do país “A” Ultrapasse ou iguale a população do país “B”, mantidas essas taxas de crescimento.
 #include <stdio.h>
 
 int main()
