@@ -15,6 +15,6 @@ int main()
      habitantesB=habitantesB*1.015;
      anos++;
      }
-     printf("Com as taxas, o país A conseguirá se igualar ou ultrapassar o B em %d", anos);
+     printf("Com as taxas, o país A conseguirá se igualar ou ultrapassar o B em %d anos!", anos);
 
 }
